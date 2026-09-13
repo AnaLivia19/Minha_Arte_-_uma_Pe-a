@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454074917312",
+    "project_id": "minhaarteeumapeca-9e071",
+    "storage_bucket": "minhaarteeumapeca-9e071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454074917312:android:d72de20f3eeb890234e825",
+        "android_client_info": {
+          "package_name": "com.example.minhaarteeumape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxAV9OClggED7TNZH2tKp5EDcwAlqqBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454074917312:android:0202da3bf6ede29c34e825",
+        "android_client_info": {
+          "package_name": "com.example.minhaarteeumapeca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxAV9OClggED7TNZH2tKp5EDcwAlqqBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
